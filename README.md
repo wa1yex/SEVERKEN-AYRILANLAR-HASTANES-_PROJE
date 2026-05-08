@@ -9,14 +9,7 @@ Bu proje, bir hastane yönetim sisteminin temel işlevlerini yerine getirmek ama
 - **Veritabanı Entegrasyonu:** Tüm veriler SQL Server üzerinde güvenli bir şekilde saklanır.
 
 ## 🛠 Kullanılan Teknolojiler
-- **Dil:** C# (C-Sharp)
+- **Dil:** C#,SQL
 - **Framework:** .NET Framework 4.8 (veya senin versiyonun)
 - **Veritabanı:** Microsoft SQL Server
 - **IDE:** Visual Studio 2022
-
-## ⚙️ Kurulum ve Çalıştırma
-Projeyi kendi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
-
-1. **Depoyu Klonlayın:**
-   ```bash
-   git clone [https://github.com/kullaniciadi/proje-adiniz.git](https://github.com/kullaniciadi/proje-adiniz.git)
